@@ -3,4 +3,3 @@ name = "360DigiTMG"
 
 print("Hello", name)
 print("Welcome to Git")
-print("Learning version control is fun!")
